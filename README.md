@@ -16,6 +16,7 @@ The main difference between PyROOT and uproot is the dependency on the ROOT pack
 
 
 ![abstraction-layers](https://raw.githubusercontent.com/scikit-hep/uproot5/main/docs-img/diagrams/abstraction-layers.svg)
+img source: https://github.com/scikit-hep/uproot5
 
 # Environment Setup
 The easiest way to prepare the environment is to install everything using conda. This is the recommended method, as ROOT can be quite tricky to install and use inside a Jupyter notebook.
