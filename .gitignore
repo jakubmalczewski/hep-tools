@@ -1,0 +1,29 @@
+*.root
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.egg-info/
+
+# Data files (often large and not version controlled)
+*.csv
+*.tsv
+*.xlsx
+*.parquet
+*.feather
+*.pkl  # Pickle files (be *very* careful with these - see notes below)
+*.h5  # HDF5 files
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Environment files (often contain sensitive information)
+.env
+venv/
+env/
+*.egg
+
+# Other
+*.log
+*.tmp

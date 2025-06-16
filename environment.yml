@@ -1,0 +1,29 @@
+name: cenv2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - ipython
+  - uproot
+  - mplhep
+  - awkward
+  - iminuit
+  - tensorflow
+  - zfit
+  - zfit-physics
+  - hist
+  - hepstats
+  - hepunits
+  - xgboost
+  - ipykernel
+  - pyarrow
+  - scikit-learn
+  - scipy
+  - pandas
+  - numpy
+  - matplotlib
+  - ipykernel
+  - notebook
+  - awkward-pandas
+  - root
