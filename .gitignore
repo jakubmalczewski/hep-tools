@@ -1,4 +1,5 @@
 *.root
+output/
 
 # Python
 *.pyc
